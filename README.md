@@ -2,7 +2,7 @@
 
 ### 0.1 Operation of the developed prototype
 
-↓↓↓ A short snippet demonstrating the operation of the KGP-ReAct-based agents driven by GPT-4.
+↓↓↓ A short snippet demonstrating the operation of the KGP-ReAct-based agents driven by GPT-5.
 
 [Operation of the KGP-ReAct agent prototype](./Videos/Operation%20of%20the%20KGP-ReAct%20agent%20prototype.mp4)
 
