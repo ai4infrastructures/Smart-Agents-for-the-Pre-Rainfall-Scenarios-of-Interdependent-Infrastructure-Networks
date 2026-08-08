@@ -1,8 +1,0 @@
-{
-    "real_time_rainfall_data_for_shelby": "real_time_rainfall_data_for_shelby.json",
-    "hecras_simulated_flooded_nodes": "hecras_simulated_flooded_nodes.json",
-    "real_time_rainfall_event_for_shelby": "real_time_rainfall_event_for_shelby.json",
-    "one_hundred_year_rainfall_event_for_shelby": "one_hundred_year_rainfall_event_for_shelby.json",
-    "fifty_year_rainfall_event_for_shelby": "fifty_year_rainfall_event_for_shelby.json",
-    "ten_year_rainfall_event_for_shelby": "ten_year_rainfall_event_for_shelby.json"
-}
