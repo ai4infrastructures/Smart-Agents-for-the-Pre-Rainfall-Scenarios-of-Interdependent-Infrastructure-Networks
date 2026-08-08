@@ -4,12 +4,8 @@
 
 ↓↓↓ A short snippet demonstrating the operation of the KGP-ReAct-based agents driven by GPT-5.
 
-<p align="center">
-  <img src="./Videos/Shown%20in%20README/Operation%20of%20the%20KGP-ReAct%20agent%20prototype.gif" width="90%">
-</p>
+![Operation of the KGP-ReAct agent prototype](./Videos/Shown%20in%20README/Operation%20of%20the%20KGP-ReAct%20agent%20prototype.gif)
 
 ↓↓↓ A short snippet demonstrating the updating process of the tool kit in the prototype.
 
-<p align="center">
-  <img src="./Videos/Shown%20in%20README/Tool%20kit%20updating.gif" width="90%">
-</p>
+![Tool kit updating](./Videos/Shown%20in%20README/Tool%20kit%20updating.gif)
